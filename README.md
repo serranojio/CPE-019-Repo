@@ -27,11 +27,12 @@ Hi, I'm Jio, a student from the class CPE 019 - CPE32S3. This repository will ho
 
 
 <p align="center">
-  <img width="700" src="https://github.com/serranojio/CPE-019-Repo/assets/157586862/b8330d68-3909-41b8-8e71-70235c1cc3bb">
+  <img width="700" src="https://github.com/serranojio/CPE-019-Repo/assets/157586862/0ccaed3e-a877-4fe9-9d63-9c049bc8a161">
 </p>
 
 <h4 align="center"> You may reach me through the following: </h4>
 
+[<img src="path/to/image.png">](https://link-to-your-URL/)
 - <b><center>Email</center></b>: qjaserrano@tip.edu.ph
 - <b>Contact Number</b>: 09499975266
 
