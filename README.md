@@ -1,7 +1,10 @@
 # CPE-019-Repo
 
-*insert banner here*
-<h2 align="center">Hi! Welcome to my repository!</h2>
+<p align="center">
+  <img width="875" src="https://github.com/serranojio/CPE-019-Repo/assets/157586862/78addd8f-f7da-471c-aa02-9b8965836cec">
+</p>
+
+<h1 align="center">Hi! Welcome to my repository!</h1>
 
 <p align="center">
   <img width="438" src="https://github.com/serranojio/CPE-019-Repo/assets/157586862/b154da94-f5fe-4c1a-a009-4dfb814c3f47">
