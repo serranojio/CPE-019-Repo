@@ -15,7 +15,7 @@ Hi, I'm Jio, a student from the class CPE 019 - CPE32S3. This repository will ho
 </h4>
 
 <p align="center">
-  <img width="875" src="https://github.com/serranojio/CPE-019-Repo/assets/157586862/b371b7ee-1b8d-49d5-a7d5-a57706fd6ab2">
+  <img width="700" src="https://github.com/serranojio/CPE-019-Repo/assets/157586862/b371b7ee-1b8d-49d5-a7d5-a57706fd6ab2">
 </p>
 
 
@@ -26,7 +26,14 @@ Hi, I'm Jio, a student from the class CPE 019 - CPE32S3. This repository will ho
 - Hyperfixating on things that interest me is what I do.
 
 
-  
+<p align="center">
+  <img width="700" src="https://github.com/serranojio/CPE-019-Repo/assets/157586862/b8330d68-3909-41b8-8e71-70235c1cc3bb">
+</p>
+
+<h4 align="center"> You may reach me through the following: </h4>
+
+- <b><center>Email</center></b>: qjaserrano@tip.edu.ph
+- <b>Contact Number</b>: 09499975266
 
 
 
