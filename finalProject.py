@@ -4,6 +4,7 @@ print(tf.__version__)
 import random
 from PIL import Image, ImageOps
 import numpy as np
+from tensorflow.python.keras.models import load_model
 
 # Setting the page configuration
 st.set_page_config(
