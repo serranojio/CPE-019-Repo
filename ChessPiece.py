@@ -16,7 +16,7 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model('chess_model.h5')
+    model = tf.keras.models.load_model('base_model.h5')
     return model
 
 with st.spinner('Model is being loaded..'):
